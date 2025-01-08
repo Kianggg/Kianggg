@@ -8,8 +8,7 @@ Check out my [itch.io profile](https://mkiang.itch.io) or [my website](michael.k
 
 ## About Me
 
-Here's some more info about me if you'd like to know more:
-  - I've taught AP Computer Science and have 2 years of teaching experience 💡
-  - I conducted original archival research for my thesis in History at Tufts University 📚
-  - I know how to ballroom dance! 💃
-  - I got my start in programming by creating mods for _Sid Meier's Civilization V_ 🎮
+- I've taught AP Computer Science and have 2 years of teaching experience 💡
+- I conducted original archival research for my thesis in History at Tufts University 📚
+- I know how to ballroom dance! 💃
+- I got my start in programming by creating mods for _Sid Meier's Civilization V_ 🎮
